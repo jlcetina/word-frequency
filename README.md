@@ -13,7 +13,7 @@ Content:
 ```mvn exec:java```
 
 
-###You can import this project as Maven Project in your favorite IDE and run the RunMe.java.
+You can import this project as Maven Project in your favorite IDE and run the RunMe.java.
 
 Jose Cetina
 02/26/2022
